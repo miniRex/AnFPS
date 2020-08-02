@@ -1,2 +1,0 @@
-# AnFPS
-a game
